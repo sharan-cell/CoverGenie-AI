@@ -23,7 +23,7 @@ This Chrome Extension helps you extract job descriptions and generate AI-powered
 
 ### ✅ 1. Download the Extension
 
-- 📦 [Click here to download the ZIP file](https://your-link.com)  
+- 📦 [Click here to download the ZIP file](https://drive.google.com/drive/folders/1DzTvcp1rMWNaB__tI75Ci6LAVFOExGoT)  
   *(If hosted on Google Drive, GitHub, etc.)*
 
 - After downloading, **extract/unzip** the folder  
